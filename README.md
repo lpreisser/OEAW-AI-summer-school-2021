@@ -1,5 +1,21 @@
 # OEAW AI summer school 2021
 
+
+## Installation 
+Install the package. Create your virtual environment and run
+```sh
+pip install -r requirements.txt
+```
+Alternatively, use `pipenv`:
+```sh 
+pipenv shell
+pipenv install
+```
+
+## Getting started
+Get started using the notebook `notebooks/demo.ipynb`.
+
+
 ## Introduction
 
 This is a Renku project - basically a git repository with some

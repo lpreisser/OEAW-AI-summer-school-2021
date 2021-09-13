@@ -1,0 +1,31 @@
+'@id': https://renkulab.io/projects/nathanael.perraudin/OEAW%20AI%20summer%20school%202021
+'@type':
+- http://schema.org/Project
+- http://www.w3.org/ns/prov#Location
+http://schema.org/agent: 0.16.0
+http://schema.org/creator:
+  '@id': mailto:nathanael.perraudin@sdsc.ethz.ch
+  '@type':
+  - http://schema.org/Person
+  - http://www.w3.org/ns/prov#Person
+  http://schema.org/affiliation: null
+  http://schema.org/alternateName: null
+  http://schema.org/email: nathanael.perraudin@sdsc.ethz.ch
+  http://schema.org/name: "Nathana\xEBl Perraudin"
+  http://www.w3.org/2000/01/rdf-schema#label: "Nathana\xEBl Perraudin"
+http://schema.org/dateCreated: '2021-09-13T09:37:30.121261+00:00'
+http://schema.org/name: OEAW AI summer school 2021
+http://schema.org/schemaVersion: '8'
+https://swissdatasciencecenter.github.io/renku-ontology#automatedTemplateUpdate: false
+https://swissdatasciencecenter.github.io/renku-ontology#immutableTemplateFiles: []
+https://swissdatasciencecenter.github.io/renku-ontology#templateId: python-minimal
+https://swissdatasciencecenter.github.io/renku-ontology#templateMetadata: '{"__template_source__":
+  "https://github.com/SwissDataScienceCenter/renku-project-template", "__template_ref__":
+  "0.1.22", "__template_id__": "python-minimal", "__namespace__": "nathanael.perraudin",
+  "__automated_update__": true, "__repository__": "https://renkulab.io/gitlab", "__sanitized_project_name__":
+  "oeaw-ai-summer-school-2021", "__project_slug__": "nathanael.perraudin/oeaw-ai-summer-school-2021",
+  "__renku_version__": "0.16.0", "description": "", "name": "OEAW AI summer school
+  2021"}'
+https://swissdatasciencecenter.github.io/renku-ontology#templateReference: 0.1.22
+https://swissdatasciencecenter.github.io/renku-ontology#templateSource: https://github.com/SwissDataScienceCenter/renku-project-template
+https://swissdatasciencecenter.github.io/renku-ontology#templateVersion: dff01d39f5f081f07a452c4d6fd4d0e4a0e63213
